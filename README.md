@@ -1,3 +1,11 @@
+# About
+A Video Library web app developed using React and ASP.NET during Software Development course at Vilnius University for clients at Baltic Amadeus.
+
+## Documentation(in Lithuanian):
+- Technince-ataskaita.pdf - Technical overview of this project (architecture, implementation of course technical requirements, etc.)
+- BA-dokumentacija.pdf - Product vision, personas, examples of Jira tickets, Wireframes, etc. This documentation was required by clients at Baltic Amadeus.
+- TSPi-Ataskaita.pdf - Overview of teamwork progress, product requirements, etc.
+
 # Setup
 ## Frontend setup:
 1. Run `yarn` at root directory
