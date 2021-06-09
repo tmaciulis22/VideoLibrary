@@ -1,5 +1,5 @@
 # Setup
-## Frontend and husky setup:
+## Frontend setup:
 1. Run `yarn` at root directory
 2. Run `yarn` at frontend directory
 3. Run `yarn start` at frontend to launch
