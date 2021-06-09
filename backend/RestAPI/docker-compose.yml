@@ -1,0 +1,18 @@
+version: "3.9"
+services:
+    db:
+        image: "mcr.microsoft.com/mssql/server:2017-latest-ubuntu"
+        ports:
+            - "1433:1433"
+        environment:
+            ACCEPT_EULA: "Y"
+            SA_PASSWORD: "Password@123"
+            MSSQL_PID: "Express"
+    web:
+        build: .
+        environment:
+            ASPNETCORE_ENVIRONMENT: "Development"
+            ASPNETCORE_URLS: "http://*:80"
+        ports:
+            - "61346:80"
+        restart: always

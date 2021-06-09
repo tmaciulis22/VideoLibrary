@@ -1,0 +1,16 @@
+.card_content {
+  overflow: hidden;
+}
+
+.card {
+  height: 35vh;
+  width: 40vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.card_image {
+  background-color: rgba(0, 0, 0, 0.12);
+  flex-grow: 1;
+  cursor: pointer;
+}

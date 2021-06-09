@@ -1,0 +1,5 @@
+@media only screen and (max-width: 780px) {
+    .card_grid {
+        margin: auto;
+    }
+}

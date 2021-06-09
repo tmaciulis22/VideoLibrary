@@ -1,0 +1,39 @@
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal__paper {
+  width: 70vh;
+}
+
+.modal__title {
+  font-weight: 600;
+}
+
+.modal__dropzone {
+  padding: 20px;
+  border-width: 2;
+  border-radius: 2;
+  border-color: #8c8c8c;
+  border-style: dashed;
+  background-color: #fafafa;
+  color: #8c8c8c;
+  transition: border 0.25s, background 0.25s ease-in-out;
+  height: 25vh;
+}
+
+.modal__dropzone--accept {
+  border-color: #00e676;
+  background-color: #00e67650;
+}
+
+.modal__dropzone--reject {
+  border-color: #ff1744;
+  background-color: #ff174450;
+}
+
+.modal__progressBar {
+  width: 100%;
+}

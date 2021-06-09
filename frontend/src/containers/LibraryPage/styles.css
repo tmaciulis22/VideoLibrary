@@ -1,0 +1,12 @@
+.root {
+    overflow: hidden;
+}
+
+.card_container {
+    margin: auto !important;
+}
+
+
+.flex_grow {
+    flex-grow: 1;
+}

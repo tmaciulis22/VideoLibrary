@@ -1,0 +1,8 @@
+.root {
+  height: 100vh;
+}
+
+.player-wrapper {
+  overflow: hidden;
+  background: rgba(15, 15, 15, 1);
+}
