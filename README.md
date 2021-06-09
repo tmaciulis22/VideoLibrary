@@ -1,3 +1,6 @@
+# Video Library
+![gif-of-main-product-features](product-demo.gif)
+
 # About
 A Video Library web app developed using React and ASP.NET during Software Development course at Vilnius University for clients at Baltic Amadeus.  
 This product lets video hobbyist convienently store and manage their videos.
