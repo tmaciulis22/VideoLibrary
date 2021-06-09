@@ -5,10 +5,17 @@
 A Video Library web app developed using React and ASP.NET during Software Development course at Vilnius University for clients at Baltic Amadeus.  
 This product lets video hobbyist convienently store and manage their videos.
 
-## Documentation(in Lithuanian):
+## Documentation (in Lithuanian):
 - `Technince-ataskaita.pdf` - Technical overview of this project (architecture, implementation of course technical requirements, etc.)
 - `BA-dokumentacija.pdf` - Product vision, personas, examples of Jira tickets, Wireframes, etc. This documentation was required by clients at Baltic Amadeus.
 - `TSPi-Ataskaita.pdf` - Overview of teamwork progress, product requirements, etc.
+
+## Collaborators:
+- Tautvydas Mačiulis - Product Owner, UI/UX, front-end development
+- Julius Rasimas - Scrum Master, front-end and back-end development
+- Aurimas Arlauskas - front-end and back-end development
+- Simonas Vingis - back-end development
+- Povilas Stašys - back-end development
 
 # Setup
 ## Frontend setup:
