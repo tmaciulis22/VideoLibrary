@@ -11,7 +11,7 @@ This product lets video hobbyist convienently store and manage their videos.
 - `TSPi-Ataskaita.pdf` - Overview of teamwork progress, product requirements, etc.
 
 ## Collaborators:
-- Tautvydas Mačiulis - Product Owner, UI/UX, front-end development
+- Tautvydas Mačiulis - Product Owner, front-end development and back-end development, UI/UX.
 - Julius Rasimas - Scrum Master, front-end and back-end development
 - Aurimas Arlauskas - front-end and back-end development
 - Simonas Vingis - back-end development
